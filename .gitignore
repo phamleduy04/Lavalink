@@ -19,3 +19,4 @@ gradle.properties
 application.yml
 plugins
 .vscode/settings.json
+LavalinkServer/.DS_Store

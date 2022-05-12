@@ -18,3 +18,4 @@ build/*
 gradle.properties
 application.yml
 plugins
+.vscode/settings.json
